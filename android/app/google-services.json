@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "801753182739",
+    "project_id": "panda-project-a9b69",
+    "storage_bucket": "panda-project-a9b69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801753182739:android:b52420aed9df521c6685e6",
+        "android_client_info": {
+          "package_name": "com.pandaprojectinterview.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2b7KgLA3H6qqV5sCnNiN87YVu35makEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
